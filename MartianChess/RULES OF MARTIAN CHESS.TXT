@@ -1,0 +1,19 @@
+RULES OF THE GAME
+
+Martian Chess is an abstract strategy game for four players
+
+Each player starts with nine pieces: three small (pawns), three medium (drones), and three large (queens).
+Each player controls only the pieces on their board and if a piece moves to another board that player 
+gains the piece
+
+If you have captured a Queen you may use one of your Drones and place it on one of your pawns to switch them out for
+the Queen, the same is true for two pawns to switch out with a rook, but only if you have already taken one from
+an opponent
+
+Pawns move one space diagonally in any direction. (Unlike chess pawns, they may move backwards.)
+Drones horizontally or vertically, without jumping. (Like chess rooks)
+Queens move any distance horizontally, vertically, or diagonally, without jumping. (The same as chess queens.)
+
+The game ends when one player runs out of pieces . Players then 
+compute their scores by adding up the point values of the pieces they captured: queen = 3, drone = 2, pawn = 1. 
+The player with the highest total wins the game.
