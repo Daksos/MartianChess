@@ -2,6 +2,8 @@ RULES OF THE GAME
 
 Martian Chess is an abstract strategy game for four players
 
+Player 1 is the Top Left Corner, Player 2 top right, Player 3 bottom right, Player 4 bottom Left
+
 Each player starts with nine pieces: three small (pawns), three medium (drones), and three large (queens).
 Each player controls only the pieces on their board and if a piece moves to another board that player 
 gains the piece
